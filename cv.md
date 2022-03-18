@@ -45,4 +45,8 @@ I have taken courses:
 * Code Basics JS
 * Now I'm at RS School
 
+### Language
 
+ My English level ranges from B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, in accordance with the guidelines set by the Common European Grading Framework (CEFR).
+
+Russian is my native language.
