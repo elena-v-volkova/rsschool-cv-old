@@ -23,18 +23,18 @@ Ready to take the test task and answer any questions.
 This is simple example from codewars
 ```
 function countSheeps(arrayOfSheep) {
-  let count = 0;
-  for (let i = 0; i < arrayOfSheep.length; ++i) {
-    if (arrayOfSheep[i]) {
-      count += 1;
+    let count = 0;
+    for (let i = 0; i < arrayOfSheep.length; ++i) {
+        if (arrayOfSheep[i]) {
+            count += 1;
+        }
     }
-}
-      return count;
+    return count;
 };
 ```
 ### ☑️ My work
 Also you can check my projects: 
-* [Blanchard site](https://blanchard.vl-pro.com/ "Blachard")  https://github.com/elena-v-volkova/blanchard
+* [Blanchard site](https://blanchard.vl-pro.com/ "Blachard") [GitHub](https://github.com/elena-v-volkova/blanchard "Blachard") 
 
 ### Education
 
